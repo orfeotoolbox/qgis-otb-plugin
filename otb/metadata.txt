@@ -1,0 +1,19 @@
+[general]
+name=OTB provider fro Processing
+description=OTB provider for Processing
+about=
+category=Plugins
+qgisMinimumVersion=2.0
+version=1.0
+
+author=Victor Olaya
+email=volayaf@gmail.com
+
+icon=icons/desktop.svg
+
+homepage=https://github.com/volaya/qgis-otb-plugin
+tracker=https://github.com/volaya/qgis-otb-plugin/issues
+repository=https://github.com/volaya/qgis-otb-plugin
+
+experimental=False
+deprecated=False

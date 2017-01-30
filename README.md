@@ -1,1 +1,1 @@
-# qgis-otb-plugin
+#OTB provider for QGIS Processing
